@@ -1,2 +1,2 @@
-# programaci-n-java
+# programacion-java
 Repositorio Ejercicios Programación Java
